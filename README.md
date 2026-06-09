@@ -1,2 +1,7 @@
 # Streamlit-py
-Streamlit
+Run APP
+
+´´´python
+streamlit run __file__.py
+´´´
+
